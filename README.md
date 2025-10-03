@@ -1,2 +1,25 @@
 # Beekeepers-BG-export-script
-This is an automated script i made,which is an super efficient way to extract your data to excel spreadsheet.
+This is an extractor i made for https://epord.bfsa.bg/ ,which is an super efficient way to extract your data to MS Excel spreadsheet.
+
+:one: Save all 3 files in the same folder :file_folder: :
+
+:pencil2: bfsa_excel_app.py
+
+:pencil2: bfsa_main.py
+
+:pencil2: RUN_BFSA.bat
+
+
+:two: Double-click RUN_BFSA.bat
+
+The batch file will:
+
+:white_check_mark: Check for Python
+
+:arrows_clockwise: Install required packages automatically
+
+:running: Run the main script
+
+:question: Prompt for your authentication token
+
+
